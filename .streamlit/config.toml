@@ -1,0 +1,12 @@
+[theme]
+base = "light"
+primaryColor = "#6366f1"
+backgroundColor = "#f5f7fb"
+secondaryBackgroundColor = "#eef0f8"
+textColor = "#1e293b"
+
+[global]
+disableWidgetStateDuplicationWarning = true
+
+[client]
+toolbarMode = "minimal"
