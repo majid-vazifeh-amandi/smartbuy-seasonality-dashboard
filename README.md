@@ -59,7 +59,7 @@ We turned this into a **measurable, repeatable analysis** and a **self-service w
 ## ▶️ Run it locally
 
 ```bash
-git clone https://github.com/mvazife-commits/smartbuy-seasonality-dashboard.git
+git clone https://github.com/majid-vazifeh-amandi/smartbuy-seasonality-dashboard.git
 cd smartbuy-seasonality-dashboard
 pip install -r requirements.txt
 streamlit run app.py
